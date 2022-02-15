@@ -3,19 +3,25 @@ console.log("hello");
 var numero2 = 2;
 var numero4 = 4;
 var numero3 = 3;
+var numero1 = 1;
 
-console.log(numero2 + numero4)
+
+
 var resultado = numero2 + numero4
+console.log(resultadoSuma)
 
 
-console.log(numero4 - numero2)
 var resultado = numero4 - numero2
+console.log(resultadoResta)
 
 
-console.log(numero4 * numero2)
 var resultado = numero4 * numero2
+console.log(resultadoMultiplicacion)
 
-console.log(numero2 * numero3)
-var resultado = numero2 * numero3
 
+var resultado = numero3 / numero2
+console.log(resultadoDivision)
+
+var resultado = numero4 / numero1
+console.log(resultadoDivisión)
 
